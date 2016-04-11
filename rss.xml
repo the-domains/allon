@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Allon Baron]]></title>
         <description><![CDATA[Allon Baron]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://allonbaron.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 23:34:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 23:34:53 GMT</lastBuildDate>
+        <atom:link href="http://allonbaron.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ced5adeeba57a9ac1ad12ae520b1e773/passthrough.jpg?height=563&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F151d49b4-62d8-4638-b09e-904cfa1b3ad4.jpg&width=750">]]></description>
-            <link>undefinedundefinedundefined/index.html</link>
+            <link>http://allonbaron.com/undefinedundefined/index.html</link>
             <guid isPermaLink="false">36509fe0-bdc7-4f87-aaee-afbe6151193b</guid>
-            <pubDate>Mon, 11 Apr 2016 23:34:01 GMT</pubDate>
+            <pubDate>Mon, 11 Apr 2016 23:34:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
