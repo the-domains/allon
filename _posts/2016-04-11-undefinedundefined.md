@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: undefinedundefined
-datePublished: '2016-04-11T23:34:01.779Z'
-dateModified: '2016-04-11T23:33:48.808Z'
+datePublished: '2016-04-11T23:34:52.889Z'
+dateModified: '2016-04-11T23:34:08.922Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-11-undefinedundefined.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-11-undefinedundefined.md
-published: true
 url: undefinedundefined/index.html
 _type: Article
 
