@@ -1,29 +1,41 @@
-name: Allon Baron - Shoot-Edit-Story
-favicon: null
-layout_spectrum: 0.49582
-typography_spectrum: 0.7980868075974286
 title: 'We Shoot, Edit and make Film Story'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.0625
+  brandStrength: 0.0625
+  rhythmicContrast: 0.5
   brandColors:
     - '#cbdcf0'
     - '#6d738b'
     - '#041310'
     - '#174634'
     - '#0059c5'
-  brandStrength: 0.0625
   lightness: 0.001643576892092824
-  saturation: 0.0625
-  rhythmicContrast: 0.5
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Allon Baron - Shoot-Edit-Story
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.7980868075974286
+layout_spectrum: 0.2529511
