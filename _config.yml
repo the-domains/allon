@@ -1,4 +1,4 @@
-name: Allon Baron
+name: Allon Baron - Shoot-Edit-Story
 favicon: null
 layout_spectrum: 0.49582
 typography_spectrum: 0.7980868075974286
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#cbdcf0'
+    - '#6d738b'
+    - '#041310'
+    - '#174634'
+    - '#0059c5'
   brandStrength: 0.125
   lightness: 0.001643576892092824
   saturation: 0.0625
